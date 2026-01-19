@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Full+Stack+Data+Scientist,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Full+Stack+Data+Scientist,;Strategic +Quant+Business+Researcher,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -24,7 +24,7 @@
 - 🛠️ Experienced in **Data Wrangling, Feature Engineering, and Model Optimization**.
 - 🌐 Working with **Big Data technologies** such as Spark, Kafka & Hadoop.
 - 📈 Strong experience in **Data Visualization & Business Intelligence**.
-- 🔥 Always exploring the latest trends in **AI & Data Science**.
+- 🔥 Always exploring the latest trends in **AI & Strategic Data Science**.
 
 ---
 
